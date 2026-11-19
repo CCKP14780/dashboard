@@ -70,10 +70,10 @@
       "sku": "IBU400",
       "lot": "IB2509",
       "received_date": "2026-09-14",
-      "expiry": "2026-03-31",
+      "expiry": "2028-03-31",
       "qty_on_hand": 200,
       "unit_cost": 0.9,
-      "status": "quarantine"
+      "status": "active"
     },
     {
       "stock_id": "S008",
@@ -103,7 +103,7 @@
       "expiry": "2028-04-30",
       "qty_on_hand": 0,
       "unit_cost": 0.75,
-      "status": "active"
+      "status": "depleted"
     },
     {
       "stock_id": "S011",
@@ -220,10 +220,10 @@
       "sku": "SIMVA20",
       "lot": "SV2509",
       "received_date": "2026-09-26",
-      "expiry": null,
+      "expiry": "2028-03-31",
       "qty_on_hand": 180,
       "unit_cost": 0.65,
-      "status": "quarantine"
+      "status": "active"
     },
     {
       "stock_id": "S023",

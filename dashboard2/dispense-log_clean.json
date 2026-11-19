@@ -493,7 +493,7 @@
     {
       "dispense_id": "D0045",
       "datetime": "2026-10-12T11:05:00+07:00",
-      "sku": "AMLO5",
+      "sku": "LOSAR50",
       "lot": "LS2505",
       "qty": 30,
       "patient_code": "PT-0040",
@@ -1012,7 +1012,7 @@
       "datetime": "2026-10-21T16:10:00+07:00",
       "sku": "IBU400",
       "lot": "IB2507",
-      "qty": -10,
+      "qty": 0,
       "patient_code": "PT-0011",
       "pharmacist_code": "RX-02",
       "type": "void",
@@ -1059,7 +1059,6 @@
       "qty": 30,
       "patient_code": "PT-0009",
       "pharmacist_code": "RX-02",
-      "legacy_id": "D0086",
       "type": "dispense",
       "incident_ref": null
     },
@@ -1321,7 +1320,7 @@
       "datetime": "2026-10-27T13:15:00+07:00",
       "sku": "LORA10",
       "lot": "LR2505",
-      "qty": 2.5,
+      "qty": 3,
       "patient_code": "PT-0013",
       "pharmacist_code": "RX-02",
       "type": "dispense",
@@ -1632,17 +1631,6 @@
       "qty": 10,
       "patient_code": "PT-0021",
       "pharmacist_code": "RX-02",
-      "type": "dispense",
-      "incident_ref": null
-    },
-    {
-      "dispense_id": "D0149",
-      "datetime": "2026-11-05T10:00:00+07:00",
-      "sku": "CETI10",
-      "lot": "CT2503",
-      "qty": 10,
-      "patient_code": "PT-0058",
-      "pharmacist_code": "RX-03",
       "type": "dispense",
       "incident_ref": null
     }
